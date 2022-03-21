@@ -44,6 +44,13 @@ Change directory to the artifacts folder:
 
 `./remove.sh ` will first stop and then remove all containers and images
 
+**List endpoints and services**
+----------------------------------
+JSON-RPC HTTP service endpoint                 : http://localhost:8545    
+JSON-RPC WebSocket service endpoint            : ws://localhost:8546    
+Web block explorer address                     : http://localhost:25000/    
+Prometheus address                             : http://localhost:9090/graph    
+Grafana address                                : http://localhost:3000/d/XE4V0WGZz/besu-overview?orgId=1&refresh=10s&from=now-30m&to=now&var-system=All    
 
 ## Dev Network Setups
 All our documentation can be found on the [Besu documentation site](https://besu.hyperledger.org/Tutorials/Examples/Private-Network-Example/).
