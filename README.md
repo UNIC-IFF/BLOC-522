@@ -32,7 +32,7 @@ Currently, a deployment of a Besu private network is deployed on the Contabo VM 
 
 In the following picture it is depicted the integration of the network within Metamask
 
-
+<p align="center"><img src="https://github.com/UNIC-IFF/BLOC-522/blob/main/figures/bloc522-Metamask%20add%20besu%20network.jpg"/></p>
 
 The following accounts are funded with ETH tokens derived from the pre-funded accounts of the besu client
 
