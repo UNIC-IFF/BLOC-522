@@ -1,0 +1,3 @@
+[submodule "quorum-dev-quickstart"]
+	path = quorum-dev-quickstart
+	url = https://github.com/ConsenSys/quorum-dev-quickstart.git
