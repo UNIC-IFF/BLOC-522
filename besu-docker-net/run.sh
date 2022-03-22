@@ -13,7 +13,7 @@
 
 NO_LOCK_REQUIRED=true
 
-. ./env.env
+. ./environment.env
 . ./common.sh
 
 # create log folders with the user permissions so it won't conflict with container permissions

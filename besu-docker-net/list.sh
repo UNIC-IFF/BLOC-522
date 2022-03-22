@@ -13,7 +13,7 @@
 
 NO_LOCK_REQUIRED=false
 
-. ./env.env
+. ./environment.env
 . ./common.sh
 dots=""
 maxRetryCount=50
