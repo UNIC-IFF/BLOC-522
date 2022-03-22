@@ -27,4 +27,9 @@ You can use the printed Private Keys in order to import those accounts in your M
 
 Enjoy!!
 
+To stop the network and clean your environment execute the following within the besu_dev_env directory:
+```
+docker-compose down
+```
+
 
