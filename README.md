@@ -1,3 +1,5 @@
+:no_entry: [DEPRECATED] Active at https://github.com/UniversityOfNicosia/BLOC-522
+
 # BLOC 522: Smart Contract Programming
 This is a repository including the nessesary scripts and tutorials for: 
 1) Deploy a private besu network
